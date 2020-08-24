@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+hr{
+    border-color: #fff;
+    width: 90%;
+    border-width: 5px;
+}
+body{
+    background-color: #fff;
+
+}
+header{
+    color:#fff;
+    background-color: #073b6b;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+#navbar{
+    background-color: #333;
+    color: #fff;
+}
+#navbar ul{
+    padding: 20px;
+    list-style: none;
+}#navbar li{
+    display: inline;
+}
+#navbar a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+}
+#showcase{
+    background-image: url(cg.jpeg);
+    background-position: center right;
+    min-height: 100px;
+    text-align: center;
+}
+#showcase p{
+    color: #fff;
+    font-size: 30px;
+    padding: 20px;
+}
+h2{
+    color:#000;
+    margin-left: 60px;
+}
+.form{
+    background-image:url(spiderman.jpeg);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.myForm{
+    margin:3%;
+    width: 45%;
+    padding-top: 0px;
+    margin-top: 2%;
+    
+}
+input{
+    border-radius: 4px;
+}
+select{
+    border-radius: 4px;
+}
+button{
+    border-radius: 4px;
+    background-color: green;
+    color: #fff;
+}
+footer{
+    color:#fff;
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
